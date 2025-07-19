@@ -3441,6 +3441,12 @@
     github = "zeshi09";
     githubId = 105582686;
   };
+  blaiselcq = {
+    name = "Blaise Le Coquil";
+    email = "blaiselcq@blaiselcq.net";
+    github = "blaiselcq";
+    githubId = 70012135;
+  };
   blakesmith = {
     name = "Blake Smith";
     email = "blakesmith0@gmail.com";
