@@ -15823,6 +15823,8 @@ self: super: with self; {
 
   queuelib = callPackage ../development/python-modules/queuelib { };
 
+  quiffen = callPackage ../development/python-modules/quiffen { };
+
   quickjs = callPackage ../development/python-modules/quickjs { };
 
   quil = callPackage ../development/python-modules/quil { };
